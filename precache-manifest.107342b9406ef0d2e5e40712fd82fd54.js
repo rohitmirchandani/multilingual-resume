@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1f057987af79b2cede01",
-    "url": "/multilingual-resume/static/css/main.7954ab97.chunk.css"
+    "revision": "d4184e37917330c116bc",
+    "url": "/multilingual-resume/static/css/main.9c6a49bb.chunk.css"
   },
   {
-    "revision": "1f057987af79b2cede01",
-    "url": "/multilingual-resume/static/js/main.1f057987.chunk.js"
+    "revision": "d4184e37917330c116bc",
+    "url": "/multilingual-resume/static/js/main.d4184e37.chunk.js"
   },
   {
     "revision": "23e5026d3c124a934bc7",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/multilingual-resume/static/js/runtime~main.793ad129.js"
   },
   {
-    "revision": "6a064fdcf0f67ed8b38f82d67caaab64",
+    "revision": "95adae7a503873ebf5eb517f3c0c5156",
     "url": "/multilingual-resume/index.html"
   }
 ];
