@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Noticia+Text&family=Roboto:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;;
+    text-decoration: none;
+    outline: none;
+}
+:root{
+    --light-bg-color: #ffe8d6;
+    --bg-color: #ddbea9;
+    --txt-color: #5e503f;
+}
+.page-div{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    background-color: var(--bg-color);
+}
+.page{
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    width: 95%;
+    max-width: 40rem;
+    text-align: justify;
+    padding-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    color : var(--txt-color);
+    background-color: var(--light-bg-color);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+h4, h3{
+    margin: 10px 0;
+    font-weight: 400;
+    font-family: 'Noticia Text', serif;
+}
+h2{
+    margin-top: 20px;
+}
+p{
+    margin: 10px 0;
+}
